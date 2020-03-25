@@ -68,7 +68,7 @@ strict digraph G{
     FluxObjective                 [label="Flux\nObjective"];
     GeneProduct                   [label="Gene Product"];
     GeneProductRef	          [label="Gene\nProduct\nRef"];
-    GeneProteinAssociation        [label="Gene\nProtein\nAssociation"];
+    GeneProteinAssociation        [label="Gene\nProduct\nAssociation"];
     Objective	                  [label="Objective"];
     
     /*
